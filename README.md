@@ -105,7 +105,7 @@ Bridging design systems and AI tooling for real-world teams.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=plugin87&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=EC4899&text_color=E5E7EB&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=plugin87&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=EC4899&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plugin87&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=E5E7EB&langs_count=6" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=plugin87&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=6D28D9&ring=A78BFA&fire=EC4899&currStreakLabel=EC4899&sideLabels=A78BFA&dates=6B7280" />
