@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Plug%20Suttisak&fontSize=60&fontColor=fff&fontAlignY=38&desc=UX%2FUI%20Lead%20%E2%80%A2%20Design%20System%20Architect%20%E2%80%A2%20AI%20%2B%20Design%20Educator&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Theintan%20Soparat&fontSize=60&fontColor=fff&fontAlignY=38&desc=UX%2FUI%20Lead%20%E2%80%A2%20Design%20System%20Architect%20%E2%80%A2%20AI%20%2B%20Design%20Educator&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://ai.designlazyyy.com">
